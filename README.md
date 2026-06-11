@@ -13,25 +13,39 @@
   <img src="screenshots/Acceuil2.png" alt="Accueil 2" width="48%" />
 </p>
 
-### Produits & Détail Produit
+### Produits
+
 <p align="center">
-  <img src="screenshots/produits.png" alt="Page Produits" width="48%" />
-  &nbsp;
-  <img src="screenshots/produit.png" alt="Détail Produit" width="48%" />
+  <img src="screenshots/produits.png" alt="Page Produits" width="80%" />
 </p>
 
-### Blog & À Propos
+### Détail Produit
+
 <p align="center">
-  <img src="screenshots/blog.png" alt="Blog" width="48%" />
-  &nbsp;
-  <img src="screenshots/propos.png" alt="À Propos" width="48%" />
+  <img src="screenshots/produit.png" alt="Détail Produit" width="80%" />
 </p>
 
-### Contact & Checkout
+### Blog 
 <p align="center">
-  <img src="screenshots/contact.png" alt="Contact" width="48%" />
-  &nbsp;
-  <img src="screenshots/checkout.png" alt="Checkout" width="48%" />
+  <img src="screenshots/blog.png" alt="Blog" width="80%" />
+</p>
+
+### À Propos
+
+<p align="center">
+  <img src="screenshots/propos.png" alt="À Propos" width="80%" />
+</p>
+
+### Contact 
+
+<p align="center">
+  <img src="screenshots/contact.png" alt="Contact" width="80%" />
+</p>
+
+### Checkout
+
+<p align="center">
+  <img src="screenshots/checkout.png" alt="Checkout" width="80%" />
 </p>
 
 ---
