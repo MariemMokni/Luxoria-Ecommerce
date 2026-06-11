@@ -73,8 +73,8 @@
 
 Développé avec ❤️ par **MOKNI Mariem**
 
-[![GitHub](https://img.shields.io/badge/GitHub-votre--username-181717?style=flat&logo=github)](https://github.com/MariemMokni)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-votre--profil-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/mariem-mokni-658aa52a4/)
+[![GitHub]](https://github.com/MariemMokni)
+[![LinkedIn]](https://www.linkedin.com/in/mariem-mokni-658aa52a4/)
 
 ---
 
