@@ -73,9 +73,6 @@
 
 Développé avec ❤️ par **MOKNI Mariem**
 
-[![GitHub]](https://github.com/MariemMokni)
-[![LinkedIn]](https://www.linkedin.com/in/mariem-mokni-658aa52a4/)
-
 ---
 
 <p align="center">
